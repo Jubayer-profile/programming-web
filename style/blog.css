@@ -1,5 +1,5 @@
 div{
-    background-color: tomato;
+    background-color: rgb(229, 65, 65);
     padding: 10px;
     margin-bottom: 10px;
 }
@@ -11,10 +11,23 @@ h1{
     text-align: center;
     font-style: oblique;
 }
+h2{
+    color: rgb(229, 65, 65);
+}
 td ,th{
     border: 3px solid black;
     padding: 5px;
 }
 table{
     border-collapse: collapse;
+}
+.reset{
+    margin-top: 5px;
+}
+.submit{
+    margin-top: 5px;
+}
+table{
+    width: 100%;
+    height: auto;
 }
